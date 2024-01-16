@@ -7,7 +7,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url(/src/imagens/bg-desktop.jpg);
+    background-image: url(./src/imagens/bg-desktop.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     width: 100%;
