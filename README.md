@@ -17,7 +17,7 @@ Users should be able to:
 
 Other screensizes:
 
-![image](https://github.com/igorcascimiro/xmen-character-selector/assets/138637092/430db35e-26f9-41c8-bc52-4693d749b867)
+![image](https://github.com/igorcascimiro/xmen-character-selector/assets/138637092/39eb8e06-c8d8-42b5-9e0d-273fc697cdc9)
 
 ### Built with
 
