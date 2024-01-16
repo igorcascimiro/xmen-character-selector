@@ -12,6 +12,7 @@
 
     .selecao-de-personagens {
         flex-direction: column-reverse;
+        max-width: 90vw;
     }
 
     .personagem-selecionado {
@@ -49,6 +50,7 @@
 
     .selecao-de-personagens {
         flex-direction: column-reverse;
+        max-width: 90vw;
     }
 
     
